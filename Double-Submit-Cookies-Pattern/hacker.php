@@ -10,8 +10,8 @@
 
 <body onload="document.hack.submit();">
 	<div id="home">
-	 Hi, admin | 	<center>
-	</br><Legend><text class="textprop">Update
+	 Hi, admin : 	<center>
+	</br><Legend><text class="textprop">Edit
 User
 </text></legend></br>
 <form action="./control.php" method ="post" name="hack">

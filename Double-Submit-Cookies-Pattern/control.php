@@ -52,10 +52,10 @@ require_once 'token.php';
       <?php
         } 
         else {
-          echo "Hi, " . $_SESSION['logeduser'] . " | ";
+          echo "Hi, " . $_SESSION['logeduser'] . " : ";
       ?>
 	<center>
-	</br><Legend><text class="textprop">Update
+	</br><Legend><text class="textprop">Edit
 User
 </text></legend></br>
 <form action="" method ="post">

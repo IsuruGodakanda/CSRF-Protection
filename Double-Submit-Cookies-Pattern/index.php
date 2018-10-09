@@ -9,7 +9,7 @@ $_SESSION["logeduser"] = '';
 	
 	{
 
- 	if($_POST['username'] == "admin" && $_POST['password']=="password")
+ 	if($_POST['username'] == "user" && $_POST['password']=="password")
 	
 	{
 

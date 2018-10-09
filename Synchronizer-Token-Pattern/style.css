@@ -1,12 +1,11 @@
 #home{
 	width:320px;
 	height:270px;
-	border:2px solid #69c773;
+	margin: auto;
 	
 }
 
 .textprop{
-  font-family: fantasy;
   font-size: 18px;
 }
 
